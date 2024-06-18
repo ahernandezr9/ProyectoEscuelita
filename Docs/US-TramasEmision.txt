@@ -1,0 +1,40 @@
+﻿User Story: Tramas de Emisión
+Título:
+
+Descripción
+
+Estructuras
+1) Datos Generales de Póliza
+2) Datos de Riesgos:
+3) Datos de Beneficiarios (Opcional)
+
+Generar tramas en .txt
+datos puede ser numerico y alfanumerico
+los valores o columnas separados por punto y coma ;
+los de tipo numerico con punto decimal
+los de tipo alfanumerico no deben contener punto y coma
+
+
+
+
+
+Título: Como agente de seguros, quiero registrar pólizas de seguro de vida para los clientes, para que puedan estar protegidos financieramente en caso de fallecimiento.
+
+Descripción
+
+El sistema debe permitir a los agentes de seguros registrar pólizas de seguro de vida para los clientes. Cada póliza debe incluir información sobre el cliente, el beneficiario, los detalles de la cobertura y el estado de la póliza. Los agentes deben poder actualizar el estado de la póliza y generar informes de las pólizas registradas.
+
+Criterios de Aceptación
+
+1. Estado de los objetos:
+
+Cliente: Nombre, Apellido, FechaNacimiento, NumeroIdentificacion.
+Beneficiario: Nombre, Apellido, Relacion.
+Poliza: NumeroPoliza, Cliente, Beneficiario, Cobertura, PrimaMensual, EstadoPoliza (Activa, Inactiva, Cancelada).
+
+2. Comportamiento de los objetos:
+
+Poliza:
+ActivarPoliza(): Cambia el estado de la póliza a Activa.
+CancelarPoliza(): Cambia el estado de la póliza a Cancelada.
+GenerarInforme(): Genera un informe con los detalles de la póliza.
