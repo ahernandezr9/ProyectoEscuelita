@@ -3,8 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\proyectoescuelita\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|solutionrelative:controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C230FA3-D58E-4E11-857C-1AAE2D0857BB}|..\\DevEscuelita.Business\\DevEscuelita.Business.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\devescuelita.business\\models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\proyectoescuelita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C230FA3-D58E-4E11-857C-1AAE2D0857BB}|..\\DevEscuelita.Business\\DevEscuelita.Business.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\devescuelita.business\\models\\beneficiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\proyectoescuelita\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\proyectoescuelita\\docs\\us-tramasemision.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C42F0D5B-7FE3-4EE0-9865-933812EA8AB3}|ProyectoEscuelita.csproj|solutionrelative:docs\\us-tramasemision.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D466BE21-8772-4240-A91B-62F7773A3724}|..\\DevEscuelita.Data\\DevEscuelita.Data.csproj|c:\\users\\ahernandez\\desktop\\proyectostpa\\escuelita\\devescuelita.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +35,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beneficiario.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\Models\\Beneficiario.cs",
+              "RelativeDocumentMoniker": "..\\DevEscuelita.Business\\Models\\Beneficiario.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\Models\\Beneficiario.cs",
+              "RelativeToolTip": "..\\DevEscuelita.Business\\Models\\Beneficiario.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:37:51.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Poliza.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\Models\\Poliza.cs",
+              "RelativeDocumentMoniker": "..\\DevEscuelita.Business\\Models\\Poliza.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\Models\\Poliza.cs",
+              "RelativeToolTip": "..\\DevEscuelita.Business\\Models\\Poliza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:34:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArchivoController.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Controllers\\ArchivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArchivoController.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Controllers\\ArchivoController.cs",
+              "RelativeToolTip": "Controllers\\ArchivoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:10:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:11:23.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:10:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DevEscuelita.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Data\\Class1.cs",
+              "RelativeToolTip": "..\\DevEscuelita.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:26:59.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "US-TramasEmision.txt",
               "DocumentMoniker": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Docs\\US-TramasEmision.txt",
               "RelativeDocumentMoniker": "Docs\\US-TramasEmision.txt",
               "ToolTip": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\ProyectoEscuelita\\Docs\\US-TramasEmision.txt",
               "RelativeToolTip": "Docs\\US-TramasEmision.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-06-18T22:20:16.372Z",
               "EditorCaption": ""

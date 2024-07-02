@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "DevEscuelita.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DevEscuelita.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevEscuelita.Business.dll": {}
+        }
       }
     }
   },
@@ -460,10 +470,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "DevEscuelita.Business/1.0.0": {
+      "type": "project",
+      "path": "../DevEscuelita.Business/DevEscuelita.Business.csproj",
+      "msbuildProject": "../DevEscuelita.Business/DevEscuelita.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DevEscuelita.Business >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.16",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -494,7 +510,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\DevEscuelita.Business.csproj": {
+              "projectPath": "C:\\Users\\ahernandez\\Desktop\\ProyectosTPA\\Escuelita\\DevEscuelita.Business\\DevEscuelita.Business.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
