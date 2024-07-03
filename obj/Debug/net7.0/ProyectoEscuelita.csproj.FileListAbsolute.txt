@@ -34,3 +34,4 @@ C:\Users\ahernandez\Desktop\ProyectosTPA\Escuelita\ProyectoEscuelita\obj\Debug\n
 C:\Users\ahernandez\Desktop\ProyectosTPA\Escuelita\ProyectoEscuelita\obj\Debug\net7.0\ref\ProyectoEscuelita.dll
 C:\Users\ahernandez\Desktop\ProyectosTPA\Escuelita\ProyectoEscuelita\bin\Debug\net7.0\DevEscuelita.Business.dll
 C:\Users\ahernandez\Desktop\ProyectosTPA\Escuelita\ProyectoEscuelita\bin\Debug\net7.0\DevEscuelita.Business.pdb
+C:\Users\ahernandez\Desktop\ProyectosTPA\Escuelita\ProyectoEscuelita\bin\Debug\net7.0\FluentValidation.dll

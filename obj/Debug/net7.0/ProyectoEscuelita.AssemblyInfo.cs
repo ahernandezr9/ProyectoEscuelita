@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoEscuelita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76213e5944e7f91fc1de4d7ea78330e9bfb95668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83379f64785de2c17474f3401b93eba4127d68d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoEscuelita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoEscuelita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
